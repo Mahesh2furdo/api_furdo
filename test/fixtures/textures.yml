@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  category: MyText
+  parent: 
+  path: MyText
+  image: MyText
+  tillingX: MyText
+  tillingY: MyText
+  model_id: MyText
+  price: MyText
+  visible_in_menu: MyText
+  vendor: MyText
+  vendor_SKU: MyText
+  dafault_texture: MyText
+  texture_image: MyText
+  thumbnail_image: MyText
+  offsetX: MyText
+  offsetY: MyText
+  normalmap_texture: MyText
+  normalmap_value: MyText
+
+two:
+  name: MyText
+  category: MyText
+  parent: 
+  path: MyText
+  image: MyText
+  tillingX: MyText
+  tillingY: MyText
+  model_id: MyText
+  price: MyText
+  visible_in_menu: MyText
+  vendor: MyText
+  vendor_SKU: MyText
+  dafault_texture: MyText
+  texture_image: MyText
+  thumbnail_image: MyText
+  offsetX: MyText
+  offsetY: MyText
+  normalmap_texture: MyText
+  normalmap_value: MyText

@@ -1,0 +1,2 @@
+class SceneversionsController < ApplicationController
+end

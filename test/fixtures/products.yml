@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  category: MyString
+  parent: 1
+  textures: MyString
+  image: MyString
+  price: 1.5
+  path: MyText
+  posrestriction: MyText
+  tag: MyText
+  shape: MyString
+  posvalue: MyText
+  vendor: MyText
+  vendorsku: MyText
+  height: MyText
+  width: MyText
+  depth: MyText
+  islight: MyText
+
+two:
+  name: MyString
+  category: MyString
+  parent: 1
+  textures: MyString
+  image: MyString
+  price: 1.5
+  path: MyText
+  posrestriction: MyText
+  tag: MyText
+  shape: MyString
+  posvalue: MyText
+  vendor: MyText
+  vendorsku: MyText
+  height: MyText
+  width: MyText
+  depth: MyText
+  islight: MyText

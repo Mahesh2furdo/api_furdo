@@ -1,0 +1,2 @@
+class ScenebomsController < ApplicationController
+end
