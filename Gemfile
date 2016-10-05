@@ -49,3 +49,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rabl', '~> 0.11.6'
 
+gem 'devise', '~>3.4.0'
