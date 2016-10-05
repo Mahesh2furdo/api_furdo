@@ -10,6 +10,7 @@
 
 		<% if user_signed_in? %>
 			welcome <b><%= current_user.email %> </b>
+			<p>Your Access Token is <b><%= current_user.access_token %></b></p>
 			<%= link_to "Edit Account", edit_user_registration_path %> |
 			<%= link_to "Sign Out", destroy_user_session_path, method: :delete %>
 			<% else %>

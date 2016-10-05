@@ -6,8 +6,16 @@ class User < ActiveRecord::Base
 
 	def as_json(options = nil)
 		options = {:root => false}
-		super(options) 
-		
+		super(options) 		
 	end
+
+
+	before_save :generate_access_token
+
+	def generate_access_token
+		self.access_token = SecureRandom.hex
+	end
+
+
 	
 end
